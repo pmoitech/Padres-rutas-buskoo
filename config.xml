@@ -4,10 +4,10 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "com.rutas.prueba"
-        versionCode = "1" 
-        version = "1.0.0">
+        versionCode = "4" 
+        version = "1.0.4">
 
-    <name>Rutas Escolares</name>
+    <name>Rutas Escolares v1.4</name>
 
     <description>
        Sistema de Gestión de Recorridos para Instituciones. by Geocommerce Cia. Ltda. Quito, Ecuador - 2015
